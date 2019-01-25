@@ -21,15 +21,15 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Joe Roccio"
-intro = "ChemE Extraordinaire"
+author = "Joseph Roccio"
+intro = "Chemical Engineer Extraordinaire"
 description = "Florida born, now in Denver"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "Simple minimalist theme"
+description = "Joe's Personal Website"
 keywords = "minimalist,blog,goa,hugo,developer"
 
 ## Social Accounts
