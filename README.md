@@ -1,4 +1,4 @@
-# joe
+# Compiling Website
 
 Notes to update website: 
 
