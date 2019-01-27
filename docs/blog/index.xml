@@ -6,21 +6,19 @@
     <description>Recent content in Blogs on Joe Roccio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jan 2019 12:57:36 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jan 2019 12:57:36 -0700</lastBuildDate>
     
 	<atom:link href="https://www.joeroccio.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
-      <link>https://www.joeroccio.com/blog/first/</link>
-      <pubDate>Fri, 25 Jan 2019 12:57:36 -0700</pubDate>
+      <title>First Blog Post</title>
+      <link>https://www.joeroccio.com/blog/first-blog-post/</link>
+      <pubDate>Mon, 07 Jan 2019 12:57:36 -0700</pubDate>
       
-      <guid>https://www.joeroccio.com/blog/first/</guid>
-      <description>Hey this is my first blog post Not sure what I&amp;rsquo;m gonna write about, but writing is fun, you know?
-Hey have you heard of HAVA? 
-HAVA NICE DAY! 
-Thanks for reading my first post!</description>
+      <guid>https://www.joeroccio.com/blog/first-blog-post/</guid>
+      <description>Hey, this is my first blog post Not sure what I&amp;rsquo;m gonna write about, but writing is good for the soul, you know? I have it on good authority that putting a tiny bit of yourself and your thoughts to words is fun to do, so why not? I might write science-y stuff, nerdy stuff, meme stuff, foody stuff, hobby stuff - you get the idea.
+In a nutshell: me If you&amp;rsquo;re looking for a short-hand on who I am, look no further than this meme.</description>
     </item>
     
   </channel>
