@@ -6,22 +6,10 @@
     <description>Recent content on Joe Roccio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Jan 2019 12:31:55 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 02:27:36 -0700</lastBuildDate>
     
 	<atom:link href="https://www.joeroccio.com/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://www.joeroccio.com/about/</link>
-      <pubDate>Fri, 25 Jan 2019 12:31:55 -0700</pubDate>
-      
-      <guid>https://www.joeroccio.com/about/</guid>
-      <description>Hi my name is Joe I was born and raised in Florida and graduated at the University of South Florida with a Bachelors in Chemical Engineering.
-On my spare time I love to cook, go running, and rock climb.
-I also love coffee and spicy foods, although, I don&amp;rsquo;t recommend mixing the two.
-Let&amp;rsquo;s get coffee together and chat, I love meeting new people :)</description>
-    </item>
     
     <item>
       <title>On Biomass Refining</title>
@@ -29,7 +17,7 @@ Let&amp;rsquo;s get coffee together and chat, I love meeting new people :)</desc
       <pubDate>Sun, 13 Jan 2019 02:27:36 -0700</pubDate>
       
       <guid>https://www.joeroccio.com/blog/on-biomass-refining/</guid>
-      <description> </description>
+      <description>Using What We Don&amp;rsquo;t Use When we think of refineries, we think of large industrial looking, pollution emitting complexes with towering distillation collumns, dizzying piping and 10 different fractionations going everywhere. But someone along the way was like &amp;ldquo;Hey, instead of crude oil, lets use the stuff we have lying around&amp;rdquo;. And boom, a technology was born. Likely out of necessity but I like to think it came as a fleeting thought.</description>
     </item>
     
     <item>
@@ -50,6 +38,19 @@ I think about this a lot though because it&amp;rsquo;s such an interesting probl
       <guid>https://www.joeroccio.com/blog/first-blog-post/</guid>
       <description>Hey, this is my first blog post Not sure what I&amp;rsquo;m gonna write about, but writing is good for the soul, you know? I have it on good authority that putting a tiny bit of yourself and your thoughts to words is fun to do, so why not? I might write science-y stuff, nerdy stuff, meme stuff, foody stuff, hobby stuff - you get the idea.
 However, if you&amp;rsquo;re looking for the short-hand on who I am, look no further than this meme.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.joeroccio.com/about-me/</link>
+      <pubDate>Mon, 07 Jan 2019 12:31:55 -0700</pubDate>
+      
+      <guid>https://www.joeroccio.com/about-me/</guid>
+      <description>Hi my name is Joe I was born and raised in Florida and graduated at the University of South Florida with a Bachelors in Chemical Engineering.
+In my spare time I love to cook, go running, and rock climb.
+Here are some fruits of my labor:
+   
+Very important facts: I am the biggest fan of hot sauce and coffee, although, I don&amp;rsquo;t really recommend mixing the two.</description>
     </item>
     
   </channel>
