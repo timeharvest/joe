@@ -6,10 +6,29 @@
     <description>Recent content in Blogs on Joe Roccio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 07 Jan 2019 12:57:36 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 02:27:36 -0700</lastBuildDate>
     
 	<atom:link href="https://www.joeroccio.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>On Biomass Refining</title>
+      <link>https://www.joeroccio.com/blog/on-biomass-refining/</link>
+      <pubDate>Sun, 13 Jan 2019 02:27:36 -0700</pubDate>
+      
+      <guid>https://www.joeroccio.com/blog/on-biomass-refining/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>On Renewable Energy</title>
+      <link>https://www.joeroccio.com/blog/on-renewable-energy/</link>
+      <pubDate>Wed, 09 Jan 2019 02:27:36 -0700</pubDate>
+      
+      <guid>https://www.joeroccio.com/blog/on-renewable-energy/</guid>
+      <description>What a light topic for a second post.
+I think about this a lot though because it&amp;rsquo;s such an interesting problem to tackle. The conversations can go on forever because the technologies that have been developed in respnose are so wide and varied. Broad categories such as wind, solar, biomass, geothermal, and hydroelectric all have their place and come with their own set of capabilities and limitations. Luckily though, we really need to concern ourselves with only two parameters:</description>
+    </item>
     
     <item>
       <title>First Blog Post</title>
@@ -18,7 +37,7 @@
       
       <guid>https://www.joeroccio.com/blog/first-blog-post/</guid>
       <description>Hey, this is my first blog post Not sure what I&amp;rsquo;m gonna write about, but writing is good for the soul, you know? I have it on good authority that putting a tiny bit of yourself and your thoughts to words is fun to do, so why not? I might write science-y stuff, nerdy stuff, meme stuff, foody stuff, hobby stuff - you get the idea.
-In a nutshell: me If you&amp;rsquo;re looking for a short-hand on who I am, look no further than this meme.</description>
+However, if you&amp;rsquo;re looking for the short-hand on who I am, look no further than this meme.</description>
     </item>
     
   </channel>
