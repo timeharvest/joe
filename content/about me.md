@@ -15,6 +15,10 @@ Here are some fruits of my labor:
 <br> 
 
 <center>
+	{{< figure src="/img/fig.jpg"
+    title="Food bros"
+    width="300"
+>}}
 <img HEIGHT="450" style="margin: 10px" src="/img/me/food3.jpg"  alt="fooood">
 <img HEIGHT="450" style="margin: 10px" src="/img/me/food2.jpg"  alt="fooood">
 
