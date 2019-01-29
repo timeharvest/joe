@@ -13,12 +13,11 @@ In my spare time I love to cook, go running, and rock climb.
 Here are some fruits of my labor: 
 <br>
 <br> 
-
-<center>
-	{{< figure src="/img/fig.jpg"
+	<!-- {{< figure src="/img/fig.jpg"
     title="Food bros"
     width="300"
->}}
+>}} -->
+<center>
 <img HEIGHT="450" style="margin: 10px" src="/img/me/food3.jpg"  alt="fooood">
 <img HEIGHT="450" style="margin: 10px" src="/img/me/food2.jpg"  alt="fooood">
 
