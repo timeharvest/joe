@@ -83,7 +83,7 @@ socialmarkup = true
     name = "about me"
     identifier = "about"
     weight = 200
-    url = "/about/"
+    url = "/about me/"
 [[menu.main]]
     name = "resume"
     identifier = "resume"
