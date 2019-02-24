@@ -1,91 +1,92 @@
-## Basic Configuration
+baseURL                   = "https://www.joeroccio.com"
+builddrafts                = false
+languageCode               = "zn-Hans"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "docs"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 80
+Paginate                   = 3
 
-baseurl = "https://www.joeroccio.com/"
-builddrafts = false
-canonifyurls = false
-languageCode = "en-US"
+theme                      = "AllinOne"
+title                      = "Joseph Roccio"
 
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "docs"
+pygmentsuseclasses         = true
 
-author = "Joe Roccio"
-title = "Joe Roccio"
 
-theme = "hugo-goa"
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
 
-## Hugo Built-in Features
-#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
-enableRobotsTXT = true
 
-## Site Settings
-[params]
-author = "Joseph Roccio"
-intro = "Chemical Engineer Extraordinaire"
-description = "Florida born, now in Denver"
-authorimage = "headshot.jpg"
-dateformat = "Jan 2, 2006"
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
 
-## Site Meta Settings
-[params.meta]
-description = "Joe's Personal Website"
-keywords = "minimalist,blog,goa,hugo,developer"
 
-## Social Accounts
-[params.social]
-#github = "<username>"
-#instagram = "<username>"
-#xing = "<username>"
-linkedin = "jroccio"
-#twitter = "<username>"
-#facebook = "<username>"
-#google = "<username>"
-#stackoverflow = "<username>"
-#lastfm = "<username>"
-#goodreads = "<username>"
-#gitlab = "<username>"
-#bitbucket = "<username>"
-#fivehundredpx = "<username>"
-#flickr = "<username>"
-#foursquare = "<username>"
-#hackernews = "<username>"
-#kickstarter = "<username>"
-#patreon = "<username>"
-#pintrest = "<username>"
-#steam = "<username>"
-#reddit = "<username>"
-#snapchat = "<username>"
-#youtube = "<username>"
-#keybase = "<username>"
-#twitch = "<username>"
-#soundcloud = "<username>"
-#tumblr = "<username>"
-#skype = "<username>"
-#telegram = "<username>"
-#whatsapp = "<username>"
-email = "josephroccio@gmail.com"
+[menu]
+  [[menu.main]]
+    name                   = "Blog"
+    weight                 = -120
+    identifier             = "blog"
+    url                    = "blog/"
 
-## Extras
-[params.extra]
-copyright = "© 2019. Joe Roccio. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
-poweredby = true
-highlightjs = true
-socialmarkup = true
-
-# Main Menu
 [[menu.main]]
-   name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
-    name = "about me"
-    identifier = "about"
-    weight = 200
-    url = "/about me/"
-[[menu.main]]
-    name = "resume"
+    name                   = "About Me"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about"
+
+  
+  [[menu.main]]
+    name = "Resume"
     identifier = "resume"
-    weight = 300
-    url = "https://github.com/timeharvest/joe/raw/master/static/resume.pdf"
+    weight = -100
+    url = "https://github.com/timeharvest/joe/raw/master/static/resume.pdf"  
+
+ 
+
+[params]
+
+
+  navtabimg                = "img/joboi.png"
+  faviconfile              = "img/zheng.png"               # from static/
+  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "Joseph Roccio "
+  description              = ["Be myself.", "Love the wonderful world.", "Chemical Engineer Extraordinaire."]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Hello, World!"
+  welcome_word             = "~ No Day But Today ~"
+
+  latestpostscount         = 5                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "themes/AllinOne/static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "josephroccio@gmail.com"
+  #github                   = "//github.com/you"
+  linkedin                 = "//linkedin.com/in/jroccio"
+  #facebook                 = "//facebook.com/you"
+  #googleplus               = "//google.com/you"
+  #twitter                  = "//twitter.com/you" 
+  #px500                    = "//px500"
+  #instagram                = "//instagram.com/you"
+  include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
+  
+  # analytics
+  googleAnalytics          = "your-google-analytic-id"
+    
+  

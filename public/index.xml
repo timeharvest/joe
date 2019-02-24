@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orianna</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Orianna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Sun, 13 Jan 2019 02:27:36 -0700</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On Biomass Refining</title>
+      <link>https://example.com/blog/2019-01/on-biomass-refining/</link>
+      <pubDate>Sun, 13 Jan 2019 02:27:36 -0700</pubDate>
+      
+      <guid>https://example.com/blog/2019-01/on-biomass-refining/</guid>
+      <description>Using What We Don&amp;rsquo;t Use When we think of refineries, we think of large industrial looking, pollution emitting complexes with towering distillation collumns, dizzying piping and 10 different fractionations going everywhere. But someone along the way was like &amp;ldquo;Hey, instead of crude oil, lets use the stuff we have lying around&amp;rdquo;. And boom, a technology was born. Likely out of necessity but I like to think it came as a fleeting thought.
+And so we gathered up all of the waste of food processing (like corn husks, sugarcane bagasse, etc) and went &amp;ldquo;now what?&amp;ldquo;
+We knew fermentation of simple sugars results in useful products like alcohols, but we had complex sugars - carbohydrates. All this dang cellulose. So like any good innovator, pretreatments and enzymes that rapidly break these sugars down into nicer, kinder, more fermentatable precursors were developed. At last! Throw some yeast in there and fermentation can begin - huzzah. Our beautiful alcohol product is on the way.
+On the way.
+On the way.
+Tick. Tock.
+Fermentation is slow
+Enter the thermochemical route
+Let&amp;rsquo;s trade off process simplicity for time. Let&amp;rsquo;s do this real fast.
+We have a couple of options, whether it be pyrolysis, gasification, or hydrothermal conversion.</description>
+    </item>
+    
+    <item>
+      <title>On Renewable Energy</title>
+      <link>https://example.com/blog/2019-01/on-renewable-energy/</link>
+      <pubDate>Wed, 09 Jan 2019 02:27:36 -0700</pubDate>
+      
+      <guid>https://example.com/blog/2019-01/on-renewable-energy/</guid>
+      <description>What a light topic for a second post.
+I think about this a lot though because it&amp;rsquo;s such an interesting problem to tackle. The conversations can go on forever because the technologies that have been developed in respnose are so wide and varied. Broad categories such as wind, solar, biomass, geothermal, and hydroelectric all have their place and come with their own set of capabilities and limitations. Luckily though, we really need to concern ourselves with only two parameters:
+Cost Efficiency We can develop a fantastically simple or efficient renewable energy source, but if it&amp;rsquo;s cost prohibative, it&amp;rsquo;s useless unfortunately. Therefore, having an idea on the return on investment is crucial when funding renewable energy projects. Below is a snippet of an infographic on this from the New Jersey Institute of Technology:
+ Source
+
+This &amp;ldquo;levelized cost of energy&amp;rdquo; factor sums the fixed costs, operational and maintenance costs and fuel expenditures in a certain timeframe, and divides this over the energy output in that same amount of time. It is often taken as a proxy for the average price that the generating asset must receive in a market to break even over its lifetime. This can be roughly calculated as the net present value of all costs over the lifetime of the asset divided by the total electrical energy output of the asset.</description>
+    </item>
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>https://example.com/blog/2019-01/first-blog-post/</link>
+      <pubDate>Mon, 07 Jan 2019 12:57:36 -0700</pubDate>
+      
+      <guid>https://example.com/blog/2019-01/first-blog-post/</guid>
+      <description>Hey, this is my first blog post Not sure what I&amp;rsquo;m gonna write about, but writing is good for the soul, you know? I have it on good authority that putting a tiny bit of yourself and your thoughts to words is fun to do, so why not? I might write science-y stuff, nerdy stuff, meme stuff, foody stuff, hobby stuff - you get the idea.
+However, if you&amp;rsquo;re looking for the short-hand on who I am, look no further than this meme. This will tell you all you need to know.
+
+Thanks for reading my first post!</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://example.com/about-me/</link>
+      <pubDate>Mon, 07 Jan 2019 12:31:55 -0700</pubDate>
+      
+      <guid>https://example.com/about-me/</guid>
+      <description>Hi my name is Joe I was born and raised in Florida and graduated at the University of South Florida with a Bachelors in Chemical Engineering.
+In my spare time I love to cook, go running, and rock climb.
+Here are some fruits of my labor:  
+(I clearly like tacos) More important facts: I am the biggest fan of hot sauce and coffee, although, I don&amp;rsquo;t really recommend mixing the two.
+
+I own two geckos, Percy and Gaia. They&amp;rsquo;re a bit rowdy but they get straight A&amp;rsquo;s and do their homework so I can&amp;rsquo;t really complain 
+I am very graceful. Here&amp;rsquo;s me walking and sticking the landing. Gold medal material.
+
+I like exploring things. Here are some things I found:
+
+
+I&amp;rsquo;m a sucker for memes of all shapes and sizes.
+ 
+So yeah, that&amp;rsquo;s me.
+I owe my adventures to my friends and meeting new people. I&amp;rsquo;m always ready for the next frontier :)</description>
+    </item>
+    
+  </channel>
+</rss>

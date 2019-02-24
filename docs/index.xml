@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joe Roccio</title>
+    <title>Joseph Roccio</title>
     <link>https://www.joeroccio.com/</link>
-    <description>Recent content on Joe Roccio</description>
+    <description>Recent content on Joseph Roccio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
+    <language>zn-Hans</language>
     <lastBuildDate>Sun, 13 Jan 2019 02:27:36 -0700</lastBuildDate>
     
 	<atom:link href="https://www.joeroccio.com/index.xml" rel="self" type="application/rss+xml" />
@@ -13,43 +13,46 @@
     
     <item>
       <title>On Biomass Refining</title>
-      <link>https://www.joeroccio.com/blog/on-biomass-refining/</link>
+      <link>https://www.joeroccio.com/blog/2019-01/on-biomass-refining/</link>
       <pubDate>Sun, 13 Jan 2019 02:27:36 -0700</pubDate>
       
-      <guid>https://www.joeroccio.com/blog/on-biomass-refining/</guid>
-      <description>Using What We Don&amp;rsquo;t Use When we think of refineries, we think of large industrial looking, pollution emitting complexes with towering distillation collumns, dizzying piping and 10 different fractionations going everywhere. But someone along the way was like &amp;ldquo;Hey, instead of crude oil, lets use the stuff we have lying around&amp;rdquo;. And boom, a technology was born. Likely out of necessity but I like to think it came as a fleeting thought.</description>
+      <guid>https://www.joeroccio.com/blog/2019-01/on-biomass-refining/</guid>
+      <description>Using What We Don&amp;rsquo;t Use When we think of refineries, we think of large industrial looking, pollution emitting complexes with towering distillation collumns, dizzying piping and 10 different fractionations going everywhere. But someone along the way was like &amp;ldquo;Hey, instead of crude oil, lets use the stuff we have lying around&amp;rdquo;. And boom, a technology was born. Likely out of necessity but I like to think it came as a fleeting thought.
+And so we gathered up all of the waste of food processing (like corn husks, sugarcane bagasse, etc) and went &amp;ldquo;now what?</description>
     </item>
     
     <item>
       <title>On Renewable Energy</title>
-      <link>https://www.joeroccio.com/blog/on-renewable-energy/</link>
+      <link>https://www.joeroccio.com/blog/2019-01/on-renewable-energy/</link>
       <pubDate>Wed, 09 Jan 2019 02:27:36 -0700</pubDate>
       
-      <guid>https://www.joeroccio.com/blog/on-renewable-energy/</guid>
+      <guid>https://www.joeroccio.com/blog/2019-01/on-renewable-energy/</guid>
       <description>What a light topic for a second post.
 I think about this a lot though because it&amp;rsquo;s such an interesting problem to tackle. The conversations can go on forever because the technologies that have been developed in respnose are so wide and varied. Broad categories such as wind, solar, biomass, geothermal, and hydroelectric all have their place and come with their own set of capabilities and limitations. Luckily though, we really need to concern ourselves with only two parameters:</description>
     </item>
     
     <item>
       <title>First Blog Post</title>
-      <link>https://www.joeroccio.com/blog/first-blog-post/</link>
+      <link>https://www.joeroccio.com/blog/2019-01/first-blog-post/</link>
       <pubDate>Mon, 07 Jan 2019 12:57:36 -0700</pubDate>
       
-      <guid>https://www.joeroccio.com/blog/first-blog-post/</guid>
+      <guid>https://www.joeroccio.com/blog/2019-01/first-blog-post/</guid>
       <description>Hey, this is my first blog post Not sure what I&amp;rsquo;m gonna write about, but writing is good for the soul, you know? I have it on good authority that putting a tiny bit of yourself and your thoughts to words is fun to do, so why not? I might write science-y stuff, nerdy stuff, meme stuff, foody stuff, hobby stuff - you get the idea.
 However, if you&amp;rsquo;re looking for the short-hand on who I am, look no further than this meme.</description>
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://www.joeroccio.com/about-me/</link>
+      <title>A little bit *about* me</title>
+      <link>https://www.joeroccio.com/about/</link>
       <pubDate>Mon, 07 Jan 2019 12:31:55 -0700</pubDate>
       
-      <guid>https://www.joeroccio.com/about-me/</guid>
+      <guid>https://www.joeroccio.com/about/</guid>
       <description>Hi my name is Joe I was born and raised in Florida and graduated at the University of South Florida with a Bachelors in Chemical Engineering.
 In my spare time I love to cook, go running, and rock climb.
 Here are some fruits of my labor:  
-(I clearly like tacos) More important facts: I am the biggest fan of hot sauce and coffee, although, I don&amp;rsquo;t really recommend mixing the two.</description>
+(I clearly like tacos) More important facts: I am the biggest fan of hot sauce and coffee, although, I don&amp;rsquo;t really recommend mixing the two.
+
+I own two geckos, Percy and Gaia.</description>
     </item>
     
   </channel>
