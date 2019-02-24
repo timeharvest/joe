@@ -2,15 +2,16 @@
 title: "On Renewable Energy"
 date: 2019-01-09T02:27:36-07:00
 draft: false
+summary: A blurb on what shapes the renewable energy conversation today in terms of economics and scalability. 
 ---
 
 What a light topic for a second post. 
 
-I think about this a lot though because it's such an interesting problem to tackle. The conversations can go on forever because the technologies that have been developed in respnose are so wide and varied. Broad categories such as wind, solar, biomass, geothermal, and hydroelectric all have their place and come with their own set of capabilities and limitations. Luckily though, we really need to concern ourselves with only two parameters: 
+I think about this a lot though because it's such an interesting problem to tackle. The conversations can go on forever because the technologies that have been developed in response are so wide and varied. Broad categories such as wind, solar, biomass, geothermal, and hydroelectric all have their place and come with their own set of capabilities and limitations. Luckily though, we really need to concern ourselves with only two parameters: 
 
 # Cost Efficiency  
 
-We can develop a fantastically simple or efficient renewable energy source, but if it's cost prohibative, it's useless unfortunately. Therefore, having an idea on the return on investment is crucial when funding renewable energy projects. Below is a snippet of an infographic on this from the New Jersey Institute of Technology: 
+We can develop a fantastically simple or efficient renewable energy source, but it's rendered useless if it becomes cost prohibative. Therefore, having an idea on the return on investment is crucial when funding renewable energy projects. Below is a snippet of an infographic on this from the New Jersey Institute of Technology: 
 
 
 <img height="800" src="/img/energy_infographic.jpg" alt="energy efficiency">

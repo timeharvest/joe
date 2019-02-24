@@ -2,6 +2,7 @@
 title: "On Biomass Refining"
 date: 2019-01-13T02:27:36-07:00
 draft: false
+summary: A quick overview on converting biomass to useful end products through a variety of pathways, each with their own set of advantages and disadvantages.
 ---
 
 # Using What We Don't Use
@@ -30,7 +31,7 @@ The point is, there are many options. Many many products. The trade-offs come in
 
 # What to choose?
 
-Like all things - it depends. Economics of the process are wholly dependent on the products produced, capacity, and required capital costs to even get going. Personally, fermentation is a very attractive option in my opinion, despite the time dependency. The feedstocks are widely availible and non-complex processing is a huge plus. Below is a powerpoint I and my team put together in my Senior year on bio-ethanol production utilizing this route. Enjoy!
+Like all things - it depends. Economics of the process are wholly dependent on the products produced, capacity, and required capital costs to even get going. Personally, fermentation is a very attractive option in my opinion, despite the time dependency. The feedstocks are widely availible and non-complex processing is a huge plus. Below is a powerpoint my team and I put together in my Senior year on bio-ethanol production utilizing this route. Enjoy!
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMDbtklPSWjq1JsVgtXinc_ZHegFUXlJXZOPpvVrQ020lGdkCAcQUAu1vCoM1K5eF7LKPB03a2owAf/embed?start=false&loop=false&delayms=3000" frameborder="0" width="670" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSMDbtklPSWjq1JsVgtXinc_ZHegFUXlJXZOPpvVrQ020lGdkCAcQUAu1vCoM1K5eF7LKPB03a2owAf/embed?start=false&loop=false&delayms=3000" frameborder="0"  allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

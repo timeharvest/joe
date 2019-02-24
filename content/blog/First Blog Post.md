@@ -2,6 +2,7 @@
 title: "First Blog Post"
 date: 2019-01-07T12:57:36-07:00
 draft: false
+summary: Hey hey, is this thing on? - me, making sure this works
 ---
 
 ## Hey, this is my first blog post
