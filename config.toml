@@ -25,6 +25,11 @@ pygmentsuseclasses         = true
   series                   = "series"
   category                 = "categories"
 
+[[menu.main]]
+    name                   = "About Me"
+    weight                 = -100
+    identifier             = "about"
+    url                    = "about"
 
 [menu]
   [[menu.main]]
@@ -33,11 +38,7 @@ pygmentsuseclasses         = true
     identifier             = "blog"
     url                    = "blog/"
 
-[[menu.main]]
-    name                   = "About Me"
-    weight                 = -100
-    identifier             = "about"
-    url                    = "about"
+
 
   
   [[menu.main]]
